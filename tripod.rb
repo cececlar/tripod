@@ -1,5 +1,5 @@
 require "sinatra"
 
 get '/' do
-  "Hello world"
+    File.new('public/index.html').readlines
 end
