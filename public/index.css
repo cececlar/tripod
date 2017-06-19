@@ -37,14 +37,14 @@
 div.image {
   clear: both;
   content:url(http://i61.photobucket.com/albums/h56/cececlar/luna_zpsjt14rqpj.jpg);
-  max-width: 66%;
+  max-width: 100%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
 }
 
 .header {
-  max-width: 66%;
+  max-width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -54,6 +54,7 @@ div.image {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 0;
+  margin-top: auto;
   font-family: 'Ubuntu', sans-serif;
   text-align: center;
 }
@@ -65,7 +66,7 @@ div.image {
   margin-top: auto;
   font-size: 16px;
   font-family: 'Ubuntu', sans-serif;
-  text-align: right;
+  text-align: center;
 }
 
 .divider {
