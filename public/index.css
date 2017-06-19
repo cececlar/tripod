@@ -60,13 +60,13 @@ div.image {
 }
 
 #blurb {
-  max-width: 105%
+  max-width: 55%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -1%;
+  margin-top: 0;
   font-size: 16px;
   font-family: 'Ubuntu', sans-serif;
-  text-align: center;
+  text-align: justify;
 }
 
 .divider {
