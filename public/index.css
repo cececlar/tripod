@@ -77,6 +77,7 @@ div.image {
   color: white;
   font-family: 'Ubuntu', sans-serif;
   margin-bottom: 2%;
+  font-size: 16px;
 }
 
 .bio {
@@ -111,7 +112,7 @@ div.image {
   height: 400px;
   width: 400px;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   margin-bottom: 2%;
   overflow: overlay;
 }
