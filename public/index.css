@@ -186,3 +186,13 @@ div.image {
 a:hover {
   color: #ffff80;
 }
+
+.top a {
+  font-size: 16px;
+  font-family: 'Ubuntu', sans-serif;
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+}
