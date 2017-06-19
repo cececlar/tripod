@@ -79,6 +79,13 @@ div.image {
   margin-bottom: 2%;
 }
 
+.bio {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
 #bio-pic {
   content:url(https://lh3.googleusercontent.com/-yzFKF6q2VDM/AAAAAAAAAAI/AAAAAAAAAg8/qNzYN9CyINw/s640/photo.jpg);
   display: inline-block;
@@ -87,11 +94,8 @@ div.image {
   border-color: black;
   margin-top: 5px;
   border-radius: 10px;
-  height: auto;
-  width: 50%;
-  margin-left: 2%;
-  margin-right: auto;
-  float: left;
+  height: 400px;
+  width: 400px;
   margin-bottom: 2%;
 }
 
@@ -104,12 +108,10 @@ div.image {
   margin-top: 5px;
   padding: 0px 10px;
   text-align: justify;
-  width: 38%;
-  height: 575px;
+  height: 400px;
+  width: 400px;
   font-family: 'Ubuntu', sans-serif;
   font-size: 14.5px;
-  margin-right: 2%;
-  float: right;
   margin-bottom: 2%;
   overflow: overlay;
 }
