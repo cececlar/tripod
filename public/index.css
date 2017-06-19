@@ -87,8 +87,8 @@ div.image {
   border-color: black;
   margin-top: 5px;
   border-radius: 10px;
-  height: 575px;
-  width: 58%;
+  height: auto;
+  width: 50%;
   margin-left: 2%;
   margin-right: auto;
   float: left;
