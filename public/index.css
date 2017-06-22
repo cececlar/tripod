@@ -34,7 +34,7 @@
   background-color: #ffff80;
 }
 
-div.image {
+.image {
   clear: both;
   content:url(http://i61.photobucket.com/albums/h56/cececlar/luna_zpsjt14rqpj.jpg);
   max-width: 100%;
